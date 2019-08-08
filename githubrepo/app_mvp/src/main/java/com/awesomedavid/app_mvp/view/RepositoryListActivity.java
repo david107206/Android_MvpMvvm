@@ -86,7 +86,6 @@ RepositoryListContract.View {
 
     /**
      * RecyclerView에서 클릭됐다
-     * @see RepositoryAdapter.OnRepositoryItemClickListener#onRepositoryItemClickListener
      */
     @Override
     public void onRepositoryItemClick(GitHubService.RepositoryItem item) {
